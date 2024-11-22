@@ -1,0 +1,3 @@
+This is a file to test the script
+Should read all lines
+Should count all 18 words correctly
